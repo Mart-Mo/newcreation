@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"Font Awesome 5 Free","Value":"f1ea","FontColor":"#E65651","BackgroundColor":"#E65651","Name":"newspaper"}</icon>
+        <name>newspaper</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-12 17:21:02</sys_created_on>
+        <sys_id>5913805fdb44b7007520f5861d961990</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>newspaper</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_icon_5913805fdb44b7007520f5861d961990</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-12 17:28:16</sys_updated_on>
+    </sys_sg_icon>
+</record_update>

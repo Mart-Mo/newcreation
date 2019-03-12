@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="NeedIt - Next Quarter">218bb778dbc073007520f5861d961983</data_item>
+        <description>List of NeedIt requests due next quarter</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="list-alt">14548c13db84b7007520f5861d961961</icon>
+        <name>NeedIt Next Quarter</name>
+        <order>20</order>
+        <parent>40ef6f07db44b7007520f5861d961998</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-12 17:26:30</sys_created_on>
+        <sys_id>a1548c13db84b7007520f5861d961940</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedIt Next Quarter</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_a1548c13db84b7007520f5861d961940</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-12 17:27:46</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>
