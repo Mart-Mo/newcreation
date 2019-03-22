@@ -14,6 +14,8 @@
         <external_browser>false</external_browser>
         <failure_message>The reocrd was not deleted.</failure_message>
         <field_name/>
+        <hide_buttons/>
+        <hide_fields/>
         <jump_to_screen>false</jump_to_screen>
         <label/>
         <link_label/>
@@ -22,12 +24,17 @@
         <mail_content/>
         <mail_subject/>
         <name>Delete</name>
+        <offline>false</offline>
+        <offline_template_field/>
+        <offline_template_field_table/>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <relative_url>true</relative_url>
         <roles/>
         <select_current_record>false</select_current_record>
+        <show_buttons/>
         <show_confirmation>true</show_confirmation>
+        <show_fields/>
         <show_signature>false</show_signature>
         <sms/>
         <success_message>The record was successfully deleted.</success_message>
@@ -47,5 +54,6 @@
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
         <write_back_action_item display_value="Delete NeedIt Record">318ff351db18fb007520f5861d96198d</write_back_action_item>
+        <zombified_screens/>
     </sys_sg_button>
 </record_update>
